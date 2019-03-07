@@ -1,0 +1,20 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/salvadorpos/v15/.suo
+/.vs/slnx.sqlite
+/.vs/salvadorpos/v15/Server/sqlite3/storage.ide-wal
+/.vs/salvadorpos/v15/Server/sqlite3/storage.ide-shm
+/.vs/salvadorpos/v15/Server/sqlite3/storage.ide
+/.vs/salvadorpos/v15/Server/sqlite3/db.lock
+/Process/obj/Release/Process.csproj.CoreCompileInputs.cache
+/Process/obj/Debug/Process.csprojAssemblyReference.cache
+/Process/obj/Debug/Process.csproj.CoreCompileInputs.cache
+/Process/obj/Debug/Fakes/h/o/f.csprojAssemblyReference.cache
+/Process/obj/Debug/Fakes/h/o/f.csproj.CoreCompileInputs.cache
+/Handler/obj/Release/Handler.csprojAssemblyReference.cache
+/Handler/obj/Release/Handler.csproj.CoreCompileInputs.cache
+/Handler/obj/Debug/Handler.csprojAssemblyReference.cache
+/Handler/obj/Debug/Handler.csproj.CoreCompileInputs.cache
+/.vs/VSWorkspaceState.json

@@ -1,0 +1,10 @@
+D:\ITCO\POST Salvador Gomez\salvadorbodegas\Process\obj\Debug\Fakes\h\b\Handler.Fakes.xml
+D:\ITCO\POST Salvador Gomez\salvadorbodegas\Process\obj\Debug\Fakes\h\b\Handler.Fakes.dll
+D:\ITCO\POST Salvador Gomez\salvadorbodegas\Process\obj\Debug\Fakes\h\b\Handler.Fakes.pdb
+D:\ITCO\POST Salvador Gomez\salvadorbodegas\Process\obj\Debug\Fakes\h\b\Handler.dll
+D:\ITCO\POST Salvador Gomez\salvadorbodegas\Process\obj\Debug\Fakes\h\b\Microsoft.QualityTools.Testing.Fakes.dll
+D:\ITCO\POST Salvador Gomez\salvadorbodegas\Process\obj\Debug\Fakes\h\b\Handler.pdb
+D:\ITCO\POST Salvador Gomez\salvadorbodegas\Process\obj\Debug\Fakes\h\b\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+D:\ITCO\POST Salvador Gomez\salvadorbodegas\Process\obj\Debug\Fakes\h\o\f.csprojResolveAssemblyReference.cache
+D:\ITCO\POST Salvador Gomez\salvadorbodegas\Process\obj\Debug\Fakes\h\o\Handler.Fakes.dll
+D:\ITCO\POST Salvador Gomez\salvadorbodegas\Process\obj\Debug\Fakes\h\o\Handler.Fakes.pdb

@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="ListaClientes">
+        <s:complexType />
+      </s:element>
+      <s:element name="ListaClientesResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListaClientesResult" type="tns:ArrayOfArrayOfString" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfArrayOfString">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="ArrayOfString" nillable="true" type="tns:ArrayOfString" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ArrayOfString">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="string" nillable="true" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="ListaDataExtCustomer">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="idcliente" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListaDataExtCustomerResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListaDataExtCustomerResult" type="tns:ArrayOfArrayOfString" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListaPriceLevels">
+        <s:complexType />
+      </s:element>
+      <s:element name="ListaPriceLevelsResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListaPriceLevelsResult" type="tns:ArrayOfArrayOfString" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="InsertaFactura">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="cliente" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="template" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="TxnDate" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="DueDate" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="ShipDate" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="termino" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="memo" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="ItemSalesTax" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="CustomerMsg" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="productos" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="InsertaFacturaResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="InsertaFacturaResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="pruebaJSON">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="productos" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="pruebaJSONResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pruebaJSONResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListaTerminos">
+        <s:complexType />
+      </s:element>
+      <s:element name="ListaTerminosResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListaTerminosResult" type="tns:ArrayOfString" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListaMensajes">
+        <s:complexType />
+      </s:element>
+      <s:element name="ListaMensajesResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListaMensajesResult" type="tns:ArrayOfString" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CustomerAdd">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListID" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="FullName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Email" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Phone" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CustomerAddResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="CustomerAddResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CustomFieldAdd">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="customerID" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="namefield" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="valuefield" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CustomFieldAddResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="CustomFieldAddResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListaImpuestos">
+        <s:complexType />
+      </s:element>
+      <s:element name="ListaImpuestosResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListaImpuestosResult" type="tns:ArrayOfString" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListaBodegasItem">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="idcliente" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListaBodegasItemResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListaBodegasItemResult" type="tns:ArrayOfArrayOfString" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListaArticulos">
+        <s:complexType />
+      </s:element>
+      <s:element name="ListaArticulosResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ListaArticulosResult" type="tns:ArrayOfArrayOfString" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="ListaClientesSoapIn">
+    <wsdl:part name="parameters" element="tns:ListaClientes" />
+  </wsdl:message>
+  <wsdl:message name="ListaClientesSoapOut">
+    <wsdl:part name="parameters" element="tns:ListaClientesResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListaDataExtCustomerSoapIn">
+    <wsdl:part name="parameters" element="tns:ListaDataExtCustomer" />
+  </wsdl:message>
+  <wsdl:message name="ListaDataExtCustomerSoapOut">
+    <wsdl:part name="parameters" element="tns:ListaDataExtCustomerResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListaPriceLevelsSoapIn">
+    <wsdl:part name="parameters" element="tns:ListaPriceLevels" />
+  </wsdl:message>
+  <wsdl:message name="ListaPriceLevelsSoapOut">
+    <wsdl:part name="parameters" element="tns:ListaPriceLevelsResponse" />
+  </wsdl:message>
+  <wsdl:message name="InsertaFacturaSoapIn">
+    <wsdl:part name="parameters" element="tns:InsertaFactura" />
+  </wsdl:message>
+  <wsdl:message name="InsertaFacturaSoapOut">
+    <wsdl:part name="parameters" element="tns:InsertaFacturaResponse" />
+  </wsdl:message>
+  <wsdl:message name="pruebaJSONSoapIn">
+    <wsdl:part name="parameters" element="tns:pruebaJSON" />
+  </wsdl:message>
+  <wsdl:message name="pruebaJSONSoapOut">
+    <wsdl:part name="parameters" element="tns:pruebaJSONResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListaTerminosSoapIn">
+    <wsdl:part name="parameters" element="tns:ListaTerminos" />
+  </wsdl:message>
+  <wsdl:message name="ListaTerminosSoapOut">
+    <wsdl:part name="parameters" element="tns:ListaTerminosResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListaMensajesSoapIn">
+    <wsdl:part name="parameters" element="tns:ListaMensajes" />
+  </wsdl:message>
+  <wsdl:message name="ListaMensajesSoapOut">
+    <wsdl:part name="parameters" element="tns:ListaMensajesResponse" />
+  </wsdl:message>
+  <wsdl:message name="CustomerAddSoapIn">
+    <wsdl:part name="parameters" element="tns:CustomerAdd" />
+  </wsdl:message>
+  <wsdl:message name="CustomerAddSoapOut">
+    <wsdl:part name="parameters" element="tns:CustomerAddResponse" />
+  </wsdl:message>
+  <wsdl:message name="CustomFieldAddSoapIn">
+    <wsdl:part name="parameters" element="tns:CustomFieldAdd" />
+  </wsdl:message>
+  <wsdl:message name="CustomFieldAddSoapOut">
+    <wsdl:part name="parameters" element="tns:CustomFieldAddResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListaImpuestosSoapIn">
+    <wsdl:part name="parameters" element="tns:ListaImpuestos" />
+  </wsdl:message>
+  <wsdl:message name="ListaImpuestosSoapOut">
+    <wsdl:part name="parameters" element="tns:ListaImpuestosResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListaBodegasItemSoapIn">
+    <wsdl:part name="parameters" element="tns:ListaBodegasItem" />
+  </wsdl:message>
+  <wsdl:message name="ListaBodegasItemSoapOut">
+    <wsdl:part name="parameters" element="tns:ListaBodegasItemResponse" />
+  </wsdl:message>
+  <wsdl:message name="ListaArticulosSoapIn">
+    <wsdl:part name="parameters" element="tns:ListaArticulos" />
+  </wsdl:message>
+  <wsdl:message name="ListaArticulosSoapOut">
+    <wsdl:part name="parameters" element="tns:ListaArticulosResponse" />
+  </wsdl:message>
+  <wsdl:portType name="QuickBooksWebRestSoap">
+    <wsdl:operation name="ListaClientes">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Obtener todos los customers</wsdl:documentation>
+      <wsdl:input message="tns:ListaClientesSoapIn" />
+      <wsdl:output message="tns:ListaClientesSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListaDataExtCustomer">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Obtener todos los customers</wsdl:documentation>
+      <wsdl:input message="tns:ListaDataExtCustomerSoapIn" />
+      <wsdl:output message="tns:ListaDataExtCustomerSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListaPriceLevels">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Obtener todos los customers</wsdl:documentation>
+      <wsdl:input message="tns:ListaPriceLevelsSoapIn" />
+      <wsdl:output message="tns:ListaPriceLevelsSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertaFactura">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Metodo para insertar Facturas</wsdl:documentation>
+      <wsdl:input message="tns:InsertaFacturaSoapIn" />
+      <wsdl:output message="tns:InsertaFacturaSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="pruebaJSON">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Metodo para insertar Facturas</wsdl:documentation>
+      <wsdl:input message="tns:pruebaJSONSoapIn" />
+      <wsdl:output message="tns:pruebaJSONSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListaTerminos">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Obtener todos los terminos</wsdl:documentation>
+      <wsdl:input message="tns:ListaTerminosSoapIn" />
+      <wsdl:output message="tns:ListaTerminosSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListaMensajes">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Obtener todos los Mensajes</wsdl:documentation>
+      <wsdl:input message="tns:ListaMensajesSoapIn" />
+      <wsdl:output message="tns:ListaMensajesSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="CustomerAdd">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Inserta Cliente</wsdl:documentation>
+      <wsdl:input message="tns:CustomerAddSoapIn" />
+      <wsdl:output message="tns:CustomerAddSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="CustomFieldAdd">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Update CustomField</wsdl:documentation>
+      <wsdl:input message="tns:CustomFieldAddSoapIn" />
+      <wsdl:output message="tns:CustomFieldAddSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListaImpuestos">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Obtener los Tipos de Impuesto</wsdl:documentation>
+      <wsdl:input message="tns:ListaImpuestosSoapIn" />
+      <wsdl:output message="tns:ListaImpuestosSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListaBodegasItem">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Obtener Bodegas por Cliente</wsdl:documentation>
+      <wsdl:input message="tns:ListaBodegasItemSoapIn" />
+      <wsdl:output message="tns:ListaBodegasItemSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ListaArticulos">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Obtener todos los articulos</wsdl:documentation>
+      <wsdl:input message="tns:ListaArticulosSoapIn" />
+      <wsdl:output message="tns:ListaArticulosSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="QuickBooksWebRestSoap" type="tns:QuickBooksWebRestSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="ListaClientes">
+      <soap:operation soapAction="http://tempuri.org/ListaClientes" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListaDataExtCustomer">
+      <soap:operation soapAction="http://tempuri.org/ListaDataExtCustomer" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListaPriceLevels">
+      <soap:operation soapAction="http://tempuri.org/ListaPriceLevels" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertaFactura">
+      <soap:operation soapAction="http://tempuri.org/InsertaFactura" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="pruebaJSON">
+      <soap:operation soapAction="http://tempuri.org/pruebaJSON" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListaTerminos">
+      <soap:operation soapAction="http://tempuri.org/ListaTerminos" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListaMensajes">
+      <soap:operation soapAction="http://tempuri.org/ListaMensajes" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CustomerAdd">
+      <soap:operation soapAction="http://tempuri.org/CustomerAdd" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CustomFieldAdd">
+      <soap:operation soapAction="http://tempuri.org/CustomFieldAdd" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListaImpuestos">
+      <soap:operation soapAction="http://tempuri.org/ListaImpuestos" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListaBodegasItem">
+      <soap:operation soapAction="http://tempuri.org/ListaBodegasItem" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListaArticulos">
+      <soap:operation soapAction="http://tempuri.org/ListaArticulos" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="QuickBooksWebRestSoap12" type="tns:QuickBooksWebRestSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="ListaClientes">
+      <soap12:operation soapAction="http://tempuri.org/ListaClientes" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListaDataExtCustomer">
+      <soap12:operation soapAction="http://tempuri.org/ListaDataExtCustomer" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListaPriceLevels">
+      <soap12:operation soapAction="http://tempuri.org/ListaPriceLevels" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertaFactura">
+      <soap12:operation soapAction="http://tempuri.org/InsertaFactura" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="pruebaJSON">
+      <soap12:operation soapAction="http://tempuri.org/pruebaJSON" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListaTerminos">
+      <soap12:operation soapAction="http://tempuri.org/ListaTerminos" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListaMensajes">
+      <soap12:operation soapAction="http://tempuri.org/ListaMensajes" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CustomerAdd">
+      <soap12:operation soapAction="http://tempuri.org/CustomerAdd" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CustomFieldAdd">
+      <soap12:operation soapAction="http://tempuri.org/CustomFieldAdd" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListaImpuestos">
+      <soap12:operation soapAction="http://tempuri.org/ListaImpuestos" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListaBodegasItem">
+      <soap12:operation soapAction="http://tempuri.org/ListaBodegasItem" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListaArticulos">
+      <soap12:operation soapAction="http://tempuri.org/ListaArticulos" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="QuickBooksWebRest">
+    <wsdl:port name="QuickBooksWebRestSoap" binding="tns:QuickBooksWebRestSoap">
+      <soap:address location="http://itcoproyects.eastus.cloudapp.azure.com/QuickBooksWebRest.asmx" />
+    </wsdl:port>
+    <wsdl:port name="QuickBooksWebRestSoap12" binding="tns:QuickBooksWebRestSoap12">
+      <soap12:address location="http://itcoproyects.eastus.cloudapp.azure.com/QuickBooksWebRest.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

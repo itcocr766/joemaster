@@ -1,0 +1,631 @@
+C:\Users\Richard\source\repos\salvadorpos\salvadorpos\bin\Debug\salvadorpos.exe.config
+C:\Users\Richard\source\repos\salvadorpos\salvadorpos\bin\Debug\salvadorpos.exe
+C:\Users\Richard\source\repos\salvadorpos\salvadorpos\bin\Debug\salvadorpos.pdb
+C:\Users\Richard\source\repos\salvadorpos\salvadorpos\obj\Debug\salvadorpos.csprojAssemblyReference.cache
+C:\Users\Richard\source\repos\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Form1.resources
+C:\Users\Richard\source\repos\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Properties.Resources.resources
+C:\Users\Richard\source\repos\salvadorpos\salvadorpos\obj\Debug\salvadorpos.csproj.GenerateResource.cache
+C:\Users\Richard\source\repos\salvadorpos\salvadorpos\obj\Debug\salvadorpos.csproj.CoreCompileInputs.cache
+C:\Users\Richard\source\repos\salvadorpos\salvadorpos\obj\Debug\salvadorpos.exe
+C:\Users\Richard\source\repos\salvadorpos\salvadorpos\obj\Debug\salvadorpos.pdb
+C:\Users\Richard\source\repos\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Clientes.resources
+C:\Users\Richard\source\repos\salvadorpos\salvadorpos\obj\Debug\salvadorpos.mensajeespera.resources
+C:\Users\Richard\source\repos\salvadorpos\salvadorpos\bin\Debug\EntityFramework.dll
+C:\Users\Richard\source\repos\salvadorpos\salvadorpos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Richard\source\repos\salvadorpos\salvadorpos\bin\Debug\EntityFramework.xml
+C:\Users\Richard\source\repos\salvadorpos\salvadorpos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Richard\source\repos\salvadorpos\salvadorpos\obj\Debug\salvadorpos.csproj.CopyComplete
+C:\Users\Richard\Desktop\possalvador\pos2\salvadorpos\salvadorpos\bin\Debug\salvadorpos.exe.config
+C:\Users\Richard\Desktop\possalvador\pos2\salvadorpos\salvadorpos\bin\Debug\salvadorpos.exe
+C:\Users\Richard\Desktop\possalvador\pos2\salvadorpos\salvadorpos\bin\Debug\salvadorpos.pdb
+C:\Users\Richard\Desktop\possalvador\pos2\salvadorpos\salvadorpos\bin\Debug\EntityFramework.dll
+C:\Users\Richard\Desktop\possalvador\pos2\salvadorpos\salvadorpos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Richard\Desktop\possalvador\pos2\salvadorpos\salvadorpos\bin\Debug\EntityFramework.xml
+C:\Users\Richard\Desktop\possalvador\pos2\salvadorpos\salvadorpos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Richard\Desktop\possalvador\pos2\salvadorpos\salvadorpos\obj\Debug\salvadorpos.csprojAssemblyReference.cache
+C:\Users\Richard\Desktop\possalvador\pos2\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Clientes.resources
+C:\Users\Richard\Desktop\possalvador\pos2\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Form1.resources
+C:\Users\Richard\Desktop\possalvador\pos2\salvadorpos\salvadorpos\obj\Debug\salvadorpos.mensajeespera.resources
+C:\Users\Richard\Desktop\possalvador\pos2\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Properties.Resources.resources
+C:\Users\Richard\Desktop\possalvador\pos2\salvadorpos\salvadorpos\obj\Debug\salvadorpos.csproj.GenerateResource.cache
+C:\Users\Richard\Desktop\possalvador\pos2\salvadorpos\salvadorpos\obj\Debug\salvadorpos.csproj.CoreCompileInputs.cache
+C:\Users\Richard\Desktop\possalvador\pos2\salvadorpos\salvadorpos\obj\Debug\salvadorpos.csproj.CopyComplete
+C:\Users\Richard\Desktop\possalvador\pos2\salvadorpos\salvadorpos\obj\Debug\salvadorpos.exe
+C:\Users\Richard\Desktop\possalvador\pos2\salvadorpos\salvadorpos\obj\Debug\salvadorpos.pdb
+C:\Users\Richard\Desktop\possalvador\pos2\salvadorpos\salvadorpos\obj\Debug\salvadorpos.cotizaciones.cotizacion.resources
+C:\Users\Richard\Documents\ITCO\possalvador\pos2\salvadorpos\salvadorpos\bin\Debug\salvadorpos.exe.config
+C:\Users\Richard\Documents\ITCO\possalvador\pos2\salvadorpos\salvadorpos\bin\Debug\salvadorpos.exe
+C:\Users\Richard\Documents\ITCO\possalvador\pos2\salvadorpos\salvadorpos\bin\Debug\salvadorpos.pdb
+C:\Users\Richard\Documents\ITCO\possalvador\pos2\salvadorpos\salvadorpos\bin\Debug\EntityFramework.dll
+C:\Users\Richard\Documents\ITCO\possalvador\pos2\salvadorpos\salvadorpos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Richard\Documents\ITCO\possalvador\pos2\salvadorpos\salvadorpos\bin\Debug\EntityFramework.xml
+C:\Users\Richard\Documents\ITCO\possalvador\pos2\salvadorpos\salvadorpos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Richard\Documents\ITCO\possalvador\pos2\salvadorpos\salvadorpos\obj\Debug\salvadorpos.csprojAssemblyReference.cache
+C:\Users\Richard\Documents\ITCO\possalvador\pos2\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Clientes.resources
+C:\Users\Richard\Documents\ITCO\possalvador\pos2\salvadorpos\salvadorpos\obj\Debug\salvadorpos.cotizaciones.cotizacion.resources
+C:\Users\Richard\Documents\ITCO\possalvador\pos2\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Form1.resources
+C:\Users\Richard\Documents\ITCO\possalvador\pos2\salvadorpos\salvadorpos\obj\Debug\salvadorpos.mensajeespera.resources
+C:\Users\Richard\Documents\ITCO\possalvador\pos2\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Properties.Resources.resources
+C:\Users\Richard\Documents\ITCO\possalvador\pos2\salvadorpos\salvadorpos\obj\Debug\salvadorpos.csproj.GenerateResource.cache
+C:\Users\Richard\Documents\ITCO\possalvador\pos2\salvadorpos\salvadorpos\obj\Debug\salvadorpos.csproj.CoreCompileInputs.cache
+C:\Users\Richard\Documents\ITCO\possalvador\pos2\salvadorpos\salvadorpos\obj\Debug\salvadorpos.csproj.CopyComplete
+C:\Users\Richard\Documents\ITCO\possalvador\pos2\salvadorpos\salvadorpos\obj\Debug\salvadorpos.exe
+C:\Users\Richard\Documents\ITCO\possalvador\pos2\salvadorpos\salvadorpos\obj\Debug\salvadorpos.pdb
+C:\Users\Richard\Documents\ITCO\possalvador\pos2\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Productos.productos.resources
+C:\Users\Richard\Documents\ITCO\possalvador\pos2\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Facturacion.facturacion.resources
+C:\Users\Richard\Documents\ITCO\possalvador\pos3\salvadorpos\salvadorpos\bin\Debug\salvadorpos.exe.config
+C:\Users\Richard\Documents\ITCO\possalvador\pos3\salvadorpos\salvadorpos\bin\Debug\salvadorpos.exe
+C:\Users\Richard\Documents\ITCO\possalvador\pos3\salvadorpos\salvadorpos\bin\Debug\salvadorpos.pdb
+C:\Users\Richard\Documents\ITCO\possalvador\pos3\salvadorpos\salvadorpos\bin\Debug\EntityFramework.dll
+C:\Users\Richard\Documents\ITCO\possalvador\pos3\salvadorpos\salvadorpos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Richard\Documents\ITCO\possalvador\pos3\salvadorpos\salvadorpos\bin\Debug\EntityFramework.xml
+C:\Users\Richard\Documents\ITCO\possalvador\pos3\salvadorpos\salvadorpos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Richard\Documents\ITCO\possalvador\pos3\salvadorpos\salvadorpos\obj\Debug\salvadorpos.csprojAssemblyReference.cache
+C:\Users\Richard\Documents\ITCO\possalvador\pos3\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Clientes.resources
+C:\Users\Richard\Documents\ITCO\possalvador\pos3\salvadorpos\salvadorpos\obj\Debug\salvadorpos.cotizaciones.cotizacion.resources
+C:\Users\Richard\Documents\ITCO\possalvador\pos3\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Facturacion.facturacion.resources
+C:\Users\Richard\Documents\ITCO\possalvador\pos3\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Form1.resources
+C:\Users\Richard\Documents\ITCO\possalvador\pos3\salvadorpos\salvadorpos\obj\Debug\salvadorpos.mensajeespera.resources
+C:\Users\Richard\Documents\ITCO\possalvador\pos3\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Productos.productos.resources
+C:\Users\Richard\Documents\ITCO\possalvador\pos3\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Properties.Resources.resources
+C:\Users\Richard\Documents\ITCO\possalvador\pos3\salvadorpos\salvadorpos\obj\Debug\salvadorpos.csproj.GenerateResource.cache
+C:\Users\Richard\Documents\ITCO\possalvador\pos3\salvadorpos\salvadorpos\obj\Debug\salvadorpos.csproj.CoreCompileInputs.cache
+C:\Users\Richard\Documents\ITCO\possalvador\pos3\salvadorpos\salvadorpos\obj\Debug\salvadorpos.csproj.CopyComplete
+C:\Users\Richard\Documents\ITCO\possalvador\pos3\salvadorpos\salvadorpos\obj\Debug\salvadorpos.exe
+C:\Users\Richard\Documents\ITCO\possalvador\pos3\salvadorpos\salvadorpos\obj\Debug\salvadorpos.pdb
+C:\Users\Richard\Documents\ITCO\possalvador\pos4\salvadorpos\salvadorpos\bin\Debug\salvadorpos.exe.config
+C:\Users\Richard\Documents\ITCO\possalvador\pos4\salvadorpos\salvadorpos\bin\Debug\salvadorpos.exe
+C:\Users\Richard\Documents\ITCO\possalvador\pos4\salvadorpos\salvadorpos\bin\Debug\salvadorpos.pdb
+C:\Users\Richard\Documents\ITCO\possalvador\pos4\salvadorpos\salvadorpos\bin\Debug\EntityFramework.dll
+C:\Users\Richard\Documents\ITCO\possalvador\pos4\salvadorpos\salvadorpos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Richard\Documents\ITCO\possalvador\pos4\salvadorpos\salvadorpos\bin\Debug\EntityFramework.xml
+C:\Users\Richard\Documents\ITCO\possalvador\pos4\salvadorpos\salvadorpos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Richard\Documents\ITCO\possalvador\pos4\salvadorpos\salvadorpos\obj\Debug\salvadorpos.csprojAssemblyReference.cache
+C:\Users\Richard\Documents\ITCO\possalvador\pos4\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Clientes.resources
+C:\Users\Richard\Documents\ITCO\possalvador\pos4\salvadorpos\salvadorpos\obj\Debug\salvadorpos.cotizaciones.cotizacion.resources
+C:\Users\Richard\Documents\ITCO\possalvador\pos4\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Facturacion.facturacion.resources
+C:\Users\Richard\Documents\ITCO\possalvador\pos4\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Form1.resources
+C:\Users\Richard\Documents\ITCO\possalvador\pos4\salvadorpos\salvadorpos\obj\Debug\salvadorpos.mensajeespera.resources
+C:\Users\Richard\Documents\ITCO\possalvador\pos4\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Productos.productos.resources
+C:\Users\Richard\Documents\ITCO\possalvador\pos4\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Properties.Resources.resources
+C:\Users\Richard\Documents\ITCO\possalvador\pos4\salvadorpos\salvadorpos\obj\Debug\salvadorpos.csproj.GenerateResource.cache
+C:\Users\Richard\Documents\ITCO\possalvador\pos4\salvadorpos\salvadorpos\obj\Debug\salvadorpos.csproj.CoreCompileInputs.cache
+C:\Users\Richard\Documents\ITCO\possalvador\pos4\salvadorpos\salvadorpos\obj\Debug\salvadorpos.csproj.CopyComplete
+C:\Users\Richard\Documents\ITCO\possalvador\pos4\salvadorpos\salvadorpos\obj\Debug\salvadorpos.exe
+C:\Users\Richard\Documents\ITCO\possalvador\pos4\salvadorpos\salvadorpos\obj\Debug\salvadorpos.pdb
+C:\Users\Richard\Documents\ITCO\possalvador\pos5\salvadorpos\salvadorpos\bin\Debug\salvadorpos.exe.config
+C:\Users\Richard\Documents\ITCO\possalvador\pos5\salvadorpos\salvadorpos\bin\Debug\salvadorpos.exe
+C:\Users\Richard\Documents\ITCO\possalvador\pos5\salvadorpos\salvadorpos\bin\Debug\salvadorpos.pdb
+C:\Users\Richard\Documents\ITCO\possalvador\pos5\salvadorpos\salvadorpos\bin\Debug\EntityFramework.dll
+C:\Users\Richard\Documents\ITCO\possalvador\pos5\salvadorpos\salvadorpos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Richard\Documents\ITCO\possalvador\pos5\salvadorpos\salvadorpos\bin\Debug\EntityFramework.xml
+C:\Users\Richard\Documents\ITCO\possalvador\pos5\salvadorpos\salvadorpos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Richard\Documents\ITCO\possalvador\pos5\salvadorpos\salvadorpos\obj\Debug\salvadorpos.csprojAssemblyReference.cache
+C:\Users\Richard\Documents\ITCO\possalvador\pos5\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Clientes.resources
+C:\Users\Richard\Documents\ITCO\possalvador\pos5\salvadorpos\salvadorpos\obj\Debug\salvadorpos.cotizaciones.cotizacion.resources
+C:\Users\Richard\Documents\ITCO\possalvador\pos5\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Facturacion.facturacion.resources
+C:\Users\Richard\Documents\ITCO\possalvador\pos5\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Form1.resources
+C:\Users\Richard\Documents\ITCO\possalvador\pos5\salvadorpos\salvadorpos\obj\Debug\salvadorpos.mensajeespera.resources
+C:\Users\Richard\Documents\ITCO\possalvador\pos5\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Productos.productos.resources
+C:\Users\Richard\Documents\ITCO\possalvador\pos5\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Properties.Resources.resources
+C:\Users\Richard\Documents\ITCO\possalvador\pos5\salvadorpos\salvadorpos\obj\Debug\salvadorpos.csproj.GenerateResource.cache
+C:\Users\Richard\Documents\ITCO\possalvador\pos5\salvadorpos\salvadorpos\obj\Debug\salvadorpos.csproj.CoreCompileInputs.cache
+C:\Users\Richard\Documents\ITCO\possalvador\pos5\salvadorpos\salvadorpos\obj\Debug\salvadorpos.csproj.CopyComplete
+C:\Users\Richard\Documents\ITCO\possalvador\pos5\salvadorpos\salvadorpos\obj\Debug\salvadorpos.exe
+C:\Users\Richard\Documents\ITCO\possalvador\pos5\salvadorpos\salvadorpos\obj\Debug\salvadorpos.pdb
+C:\Users\Richard\Documents\ITCO\possalvador\pos7\salvadorpos\salvadorpos\obj\Debug\salvadorpos.csprojAssemblyReference.cache
+C:\Users\Richard\Documents\ITCO\possalvador\pos7\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Clientes.resources
+C:\Users\Richard\Documents\ITCO\possalvador\pos7\salvadorpos\salvadorpos\obj\Debug\salvadorpos.cotizaciones.cotizacion.resources
+C:\Users\Richard\Documents\ITCO\possalvador\pos7\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Facturacion.facturacion.resources
+C:\Users\Richard\Documents\ITCO\possalvador\pos7\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Form1.resources
+C:\Users\Richard\Documents\ITCO\possalvador\pos7\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Inicio.iniciar.resources
+C:\Users\Richard\Documents\ITCO\possalvador\pos7\salvadorpos\salvadorpos\obj\Debug\salvadorpos.mensajeespera.resources
+C:\Users\Richard\Documents\ITCO\possalvador\pos7\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Productos.productos.resources
+C:\Users\Richard\Documents\ITCO\possalvador\pos7\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Properties.Resources.resources
+C:\Users\Richard\Documents\ITCO\possalvador\pos7\salvadorpos\salvadorpos\obj\Debug\salvadorpos.csproj.GenerateResource.cache
+C:\Users\Richard\Documents\ITCO\possalvador\pos7\salvadorpos\salvadorpos\obj\Debug\salvadorpos.csproj.CoreCompileInputs.cache
+C:\Users\Richard\Documents\ITCO\possalvador\pos7\salvadorpos\salvadorpos\obj\Debug\salvadorpos.exe
+C:\Users\Richard\Documents\ITCO\possalvador\pos7\salvadorpos\salvadorpos\obj\Debug\salvadorpos.pdb
+C:\Users\Richard\Documents\ITCO\possalvador\pos7\salvadorpos\salvadorpos\bin\Debug\salvadorpos.exe.config
+C:\Users\Richard\Documents\ITCO\possalvador\pos7\salvadorpos\salvadorpos\bin\Debug\salvadorpos.exe
+C:\Users\Richard\Documents\ITCO\possalvador\pos7\salvadorpos\salvadorpos\bin\Debug\salvadorpos.pdb
+C:\Users\Richard\Documents\ITCO\possalvador\pos7\salvadorpos\salvadorpos\bin\Debug\EntityFramework.dll
+C:\Users\Richard\Documents\ITCO\possalvador\pos7\salvadorpos\salvadorpos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Richard\Documents\ITCO\possalvador\pos7\salvadorpos\salvadorpos\bin\Debug\EntityFramework.xml
+C:\Users\Richard\Documents\ITCO\possalvador\pos7\salvadorpos\salvadorpos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Richard\Documents\ITCO\possalvador\pos7\salvadorpos\salvadorpos\obj\Debug\salvadorpos.csproj.CopyComplete
+C:\Users\Richard\Documents\ITCO\possalvador\pos8\salvadorpos\salvadorpos\bin\Debug\salvadorpos.exe.config
+C:\Users\Richard\Documents\ITCO\possalvador\pos8\salvadorpos\salvadorpos\bin\Debug\salvadorpos.exe
+C:\Users\Richard\Documents\ITCO\possalvador\pos8\salvadorpos\salvadorpos\bin\Debug\salvadorpos.pdb
+C:\Users\Richard\Documents\ITCO\possalvador\pos8\salvadorpos\salvadorpos\bin\Debug\EntityFramework.dll
+C:\Users\Richard\Documents\ITCO\possalvador\pos8\salvadorpos\salvadorpos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Richard\Documents\ITCO\possalvador\pos8\salvadorpos\salvadorpos\bin\Debug\EntityFramework.xml
+C:\Users\Richard\Documents\ITCO\possalvador\pos8\salvadorpos\salvadorpos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Richard\Documents\ITCO\possalvador\pos8\salvadorpos\salvadorpos\obj\Debug\salvadorpos.csprojAssemblyReference.cache
+C:\Users\Richard\Documents\ITCO\possalvador\pos8\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Clientes.resources
+C:\Users\Richard\Documents\ITCO\possalvador\pos8\salvadorpos\salvadorpos\obj\Debug\salvadorpos.cotizaciones.cotizacion.resources
+C:\Users\Richard\Documents\ITCO\possalvador\pos8\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Facturacion.facturacion.resources
+C:\Users\Richard\Documents\ITCO\possalvador\pos8\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Form1.resources
+C:\Users\Richard\Documents\ITCO\possalvador\pos8\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Inicio.iniciar.resources
+C:\Users\Richard\Documents\ITCO\possalvador\pos8\salvadorpos\salvadorpos\obj\Debug\salvadorpos.mensajeespera.resources
+C:\Users\Richard\Documents\ITCO\possalvador\pos8\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Productos.productos.resources
+C:\Users\Richard\Documents\ITCO\possalvador\pos8\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Properties.Resources.resources
+C:\Users\Richard\Documents\ITCO\possalvador\pos8\salvadorpos\salvadorpos\obj\Debug\salvadorpos.csproj.GenerateResource.cache
+C:\Users\Richard\Documents\ITCO\possalvador\pos8\salvadorpos\salvadorpos\obj\Debug\salvadorpos.csproj.CoreCompileInputs.cache
+C:\Users\Richard\Documents\ITCO\possalvador\pos8\salvadorpos\salvadorpos\obj\Debug\salvadorpos.csproj.CopyComplete
+C:\Users\Richard\Documents\ITCO\possalvador\pos8\salvadorpos\salvadorpos\obj\Debug\salvadorpos.exe
+C:\Users\Richard\Documents\ITCO\possalvador\pos8\salvadorpos\salvadorpos\obj\Debug\salvadorpos.pdb
+C:\Users\Richard\Documents\ITCO\possalvador\pos9\salvadorpos\salvadorpos\bin\Debug\salvadorpos.exe.config
+C:\Users\Richard\Documents\ITCO\possalvador\pos9\salvadorpos\salvadorpos\bin\Debug\salvadorpos.exe
+C:\Users\Richard\Documents\ITCO\possalvador\pos9\salvadorpos\salvadorpos\bin\Debug\salvadorpos.pdb
+C:\Users\Richard\Documents\ITCO\possalvador\pos9\salvadorpos\salvadorpos\bin\Debug\EntityFramework.dll
+C:\Users\Richard\Documents\ITCO\possalvador\pos9\salvadorpos\salvadorpos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Richard\Documents\ITCO\possalvador\pos9\salvadorpos\salvadorpos\bin\Debug\Google.Protobuf.dll
+C:\Users\Richard\Documents\ITCO\possalvador\pos9\salvadorpos\salvadorpos\bin\Debug\MySql.Data.dll
+C:\Users\Richard\Documents\ITCO\possalvador\pos9\salvadorpos\salvadorpos\bin\Debug\EntityFramework.xml
+C:\Users\Richard\Documents\ITCO\possalvador\pos9\salvadorpos\salvadorpos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Richard\Documents\ITCO\possalvador\pos9\salvadorpos\salvadorpos\bin\Debug\Google.Protobuf.xml
+C:\Users\Richard\Documents\ITCO\possalvador\pos9\salvadorpos\salvadorpos\bin\Debug\MySql.Data.xml
+C:\Users\Richard\Documents\ITCO\possalvador\pos9\salvadorpos\salvadorpos\obj\Debug\salvadorpos.csprojAssemblyReference.cache
+C:\Users\Richard\Documents\ITCO\possalvador\pos9\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Clientes.resources
+C:\Users\Richard\Documents\ITCO\possalvador\pos9\salvadorpos\salvadorpos\obj\Debug\salvadorpos.cotizaciones.cotizacion.resources
+C:\Users\Richard\Documents\ITCO\possalvador\pos9\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Facturacion.facturacion.resources
+C:\Users\Richard\Documents\ITCO\possalvador\pos9\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Form1.resources
+C:\Users\Richard\Documents\ITCO\possalvador\pos9\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Inicio.iniciar.resources
+C:\Users\Richard\Documents\ITCO\possalvador\pos9\salvadorpos\salvadorpos\obj\Debug\salvadorpos.mensajeespera.resources
+C:\Users\Richard\Documents\ITCO\possalvador\pos9\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Productos.productos.resources
+C:\Users\Richard\Documents\ITCO\possalvador\pos9\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Properties.Resources.resources
+C:\Users\Richard\Documents\ITCO\possalvador\pos9\salvadorpos\salvadorpos\obj\Debug\salvadorpos.csproj.GenerateResource.cache
+C:\Users\Richard\Documents\ITCO\possalvador\pos9\salvadorpos\salvadorpos\obj\Debug\salvadorpos.csproj.CoreCompileInputs.cache
+C:\Users\Richard\Documents\ITCO\possalvador\pos9\salvadorpos\salvadorpos\obj\Debug\salvadorpos.csproj.CopyComplete
+C:\Users\Richard\Documents\ITCO\possalvador\pos9\salvadorpos\salvadorpos\obj\Debug\salvadorpos.exe
+C:\Users\Richard\Documents\ITCO\possalvador\pos9\salvadorpos\salvadorpos\obj\Debug\salvadorpos.pdb
+C:\Users\Richard\Documents\ITCO\possalvador\pos10\salvadorpos\salvadorpos\bin\Debug\salvadorpos.exe.config
+C:\Users\Richard\Documents\ITCO\possalvador\pos10\salvadorpos\salvadorpos\bin\Debug\salvadorpos.exe
+C:\Users\Richard\Documents\ITCO\possalvador\pos10\salvadorpos\salvadorpos\bin\Debug\salvadorpos.pdb
+C:\Users\Richard\Documents\ITCO\possalvador\pos10\salvadorpos\salvadorpos\bin\Debug\EntityFramework.dll
+C:\Users\Richard\Documents\ITCO\possalvador\pos10\salvadorpos\salvadorpos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Richard\Documents\ITCO\possalvador\pos10\salvadorpos\salvadorpos\bin\Debug\Google.Protobuf.dll
+C:\Users\Richard\Documents\ITCO\possalvador\pos10\salvadorpos\salvadorpos\bin\Debug\MySql.Data.dll
+C:\Users\Richard\Documents\ITCO\possalvador\pos10\salvadorpos\salvadorpos\bin\Debug\EntityFramework.xml
+C:\Users\Richard\Documents\ITCO\possalvador\pos10\salvadorpos\salvadorpos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Richard\Documents\ITCO\possalvador\pos10\salvadorpos\salvadorpos\bin\Debug\Google.Protobuf.xml
+C:\Users\Richard\Documents\ITCO\possalvador\pos10\salvadorpos\salvadorpos\bin\Debug\MySql.Data.xml
+C:\Users\Richard\Documents\ITCO\possalvador\pos10\salvadorpos\salvadorpos\obj\Debug\salvadorpos.csprojAssemblyReference.cache
+C:\Users\Richard\Documents\ITCO\possalvador\pos10\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Clientes.resources
+C:\Users\Richard\Documents\ITCO\possalvador\pos10\salvadorpos\salvadorpos\obj\Debug\salvadorpos.cotizaciones.cotizacion.resources
+C:\Users\Richard\Documents\ITCO\possalvador\pos10\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Facturacion.facturacion.resources
+C:\Users\Richard\Documents\ITCO\possalvador\pos10\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Form1.resources
+C:\Users\Richard\Documents\ITCO\possalvador\pos10\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Inicio.iniciar.resources
+C:\Users\Richard\Documents\ITCO\possalvador\pos10\salvadorpos\salvadorpos\obj\Debug\salvadorpos.mensajeespera.resources
+C:\Users\Richard\Documents\ITCO\possalvador\pos10\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Productos.productos.resources
+C:\Users\Richard\Documents\ITCO\possalvador\pos10\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Properties.Resources.resources
+C:\Users\Richard\Documents\ITCO\possalvador\pos10\salvadorpos\salvadorpos\obj\Debug\salvadorpos.csproj.GenerateResource.cache
+C:\Users\Richard\Documents\ITCO\possalvador\pos10\salvadorpos\salvadorpos\obj\Debug\salvadorpos.csproj.CoreCompileInputs.cache
+C:\Users\Richard\Documents\ITCO\possalvador\pos10\salvadorpos\salvadorpos\obj\Debug\salvadorpos.csproj.CopyComplete
+C:\Users\Richard\Documents\ITCO\possalvador\pos10\salvadorpos\salvadorpos\obj\Debug\salvadorpos.exe
+C:\Users\Richard\Documents\ITCO\possalvador\pos10\salvadorpos\salvadorpos\obj\Debug\salvadorpos.pdb
+C:\Users\richardeduardoviquez\Desktop\versionessalvador\2\salvadorpos\salvadorpos\bin\Debug\salvadorpos.exe.config
+C:\Users\richardeduardoviquez\Desktop\versionessalvador\2\salvadorpos\salvadorpos\bin\Debug\salvadorpos.exe
+C:\Users\richardeduardoviquez\Desktop\versionessalvador\2\salvadorpos\salvadorpos\bin\Debug\salvadorpos.pdb
+C:\Users\richardeduardoviquez\Desktop\versionessalvador\2\salvadorpos\salvadorpos\bin\Debug\EntityFramework.dll
+C:\Users\richardeduardoviquez\Desktop\versionessalvador\2\salvadorpos\salvadorpos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\richardeduardoviquez\Desktop\versionessalvador\2\salvadorpos\salvadorpos\bin\Debug\Google.Protobuf.dll
+C:\Users\richardeduardoviquez\Desktop\versionessalvador\2\salvadorpos\salvadorpos\bin\Debug\MySql.Data.dll
+C:\Users\richardeduardoviquez\Desktop\versionessalvador\2\salvadorpos\salvadorpos\bin\Debug\EntityFramework.xml
+C:\Users\richardeduardoviquez\Desktop\versionessalvador\2\salvadorpos\salvadorpos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\richardeduardoviquez\Desktop\versionessalvador\2\salvadorpos\salvadorpos\bin\Debug\Google.Protobuf.xml
+C:\Users\richardeduardoviquez\Desktop\versionessalvador\2\salvadorpos\salvadorpos\bin\Debug\MySql.Data.xml
+C:\Users\richardeduardoviquez\Desktop\versionessalvador\2\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Clientes.resources
+C:\Users\richardeduardoviquez\Desktop\versionessalvador\2\salvadorpos\salvadorpos\obj\Debug\salvadorpos.cotizaciones.cotizacion.resources
+C:\Users\richardeduardoviquez\Desktop\versionessalvador\2\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Facturacion.facturacion.resources
+C:\Users\richardeduardoviquez\Desktop\versionessalvador\2\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Form1.resources
+C:\Users\richardeduardoviquez\Desktop\versionessalvador\2\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Inicio.iniciar.resources
+C:\Users\richardeduardoviquez\Desktop\versionessalvador\2\salvadorpos\salvadorpos\obj\Debug\salvadorpos.mensajeespera.resources
+C:\Users\richardeduardoviquez\Desktop\versionessalvador\2\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Productos.productos.resources
+C:\Users\richardeduardoviquez\Desktop\versionessalvador\2\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Properties.Resources.resources
+C:\Users\richardeduardoviquez\Desktop\versionessalvador\2\salvadorpos\salvadorpos\obj\Debug\salvadorpos.csproj.GenerateResource.cache
+C:\Users\richardeduardoviquez\Desktop\versionessalvador\2\salvadorpos\salvadorpos\obj\Debug\salvadorpos.csproj.CoreCompileInputs.cache
+C:\Users\richardeduardoviquez\Desktop\versionessalvador\2\salvadorpos\salvadorpos\obj\Debug\salvadorpos.csproj.CopyComplete
+C:\Users\richardeduardoviquez\Desktop\versionessalvador\2\salvadorpos\salvadorpos\obj\Debug\salvadorpos.exe
+C:\Users\richardeduardoviquez\Desktop\versionessalvador\2\salvadorpos\salvadorpos\obj\Debug\salvadorpos.pdb
+C:\Users\richardeduardoviquez\Desktop\versionessalvador\2\salvadorpos\salvadorpos\obj\Debug\salvadorpos.csprojAssemblyReference.cache
+C:\Users\richardeduardoviquez\Desktop\versionessalvador\2\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Listas.Cotizaciones_por_cliente.resources
+C:\Users\richardeduardoviquez\Desktop\versionessalvador\3\salvadorpos\salvadorpos\bin\Debug\salvadorpos.exe.config
+C:\Users\richardeduardoviquez\Desktop\versionessalvador\3\salvadorpos\salvadorpos\bin\Debug\salvadorpos.exe
+C:\Users\richardeduardoviquez\Desktop\versionessalvador\3\salvadorpos\salvadorpos\bin\Debug\salvadorpos.pdb
+C:\Users\richardeduardoviquez\Desktop\versionessalvador\3\salvadorpos\salvadorpos\bin\Debug\EntityFramework.dll
+C:\Users\richardeduardoviquez\Desktop\versionessalvador\3\salvadorpos\salvadorpos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\richardeduardoviquez\Desktop\versionessalvador\3\salvadorpos\salvadorpos\bin\Debug\Google.Protobuf.dll
+C:\Users\richardeduardoviquez\Desktop\versionessalvador\3\salvadorpos\salvadorpos\bin\Debug\MySql.Data.dll
+C:\Users\richardeduardoviquez\Desktop\versionessalvador\3\salvadorpos\salvadorpos\bin\Debug\EntityFramework.xml
+C:\Users\richardeduardoviquez\Desktop\versionessalvador\3\salvadorpos\salvadorpos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\richardeduardoviquez\Desktop\versionessalvador\3\salvadorpos\salvadorpos\bin\Debug\Google.Protobuf.xml
+C:\Users\richardeduardoviquez\Desktop\versionessalvador\3\salvadorpos\salvadorpos\bin\Debug\MySql.Data.xml
+C:\Users\richardeduardoviquez\Desktop\versionessalvador\3\salvadorpos\salvadorpos\obj\Debug\salvadorpos.csprojAssemblyReference.cache
+C:\Users\richardeduardoviquez\Desktop\versionessalvador\3\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Clientes.resources
+C:\Users\richardeduardoviquez\Desktop\versionessalvador\3\salvadorpos\salvadorpos\obj\Debug\salvadorpos.cotizaciones.cotizacion.resources
+C:\Users\richardeduardoviquez\Desktop\versionessalvador\3\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Facturacion.facturacion.resources
+C:\Users\richardeduardoviquez\Desktop\versionessalvador\3\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Form1.resources
+C:\Users\richardeduardoviquez\Desktop\versionessalvador\3\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Inicio.iniciar.resources
+C:\Users\richardeduardoviquez\Desktop\versionessalvador\3\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Listas.Cotizaciones_por_cliente.resources
+C:\Users\richardeduardoviquez\Desktop\versionessalvador\3\salvadorpos\salvadorpos\obj\Debug\salvadorpos.mensajeespera.resources
+C:\Users\richardeduardoviquez\Desktop\versionessalvador\3\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Pedidos.pedidos.resources
+C:\Users\richardeduardoviquez\Desktop\versionessalvador\3\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Productos.productos.resources
+C:\Users\richardeduardoviquez\Desktop\versionessalvador\3\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Properties.Resources.resources
+C:\Users\richardeduardoviquez\Desktop\versionessalvador\3\salvadorpos\salvadorpos\obj\Debug\salvadorpos.csproj.GenerateResource.cache
+C:\Users\richardeduardoviquez\Desktop\versionessalvador\3\salvadorpos\salvadorpos\obj\Debug\salvadorpos.csproj.CoreCompileInputs.cache
+C:\Users\richardeduardoviquez\Desktop\versionessalvador\3\salvadorpos\salvadorpos\obj\Debug\salvadorpos.csproj.CopyComplete
+C:\Users\richardeduardoviquez\Desktop\versionessalvador\3\salvadorpos\salvadorpos\obj\Debug\salvadorpos.exe
+C:\Users\richardeduardoviquez\Desktop\versionessalvador\3\salvadorpos\salvadorpos\obj\Debug\salvadorpos.pdb
+C:\Users\richardeduardoviquez\Desktop\versionessalvador\3\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Administracion.menuadministracion.resources
+C:\Users\richard\Documents\itco\versionessalvador\3\salvadorpos\salvadorpos\bin\Debug\salvadorpos.exe.config
+C:\Users\richard\Documents\itco\versionessalvador\3\salvadorpos\salvadorpos\bin\Debug\salvadorpos.exe
+C:\Users\richard\Documents\itco\versionessalvador\3\salvadorpos\salvadorpos\bin\Debug\salvadorpos.pdb
+C:\Users\richard\Documents\itco\versionessalvador\3\salvadorpos\salvadorpos\bin\Debug\EntityFramework.dll
+C:\Users\richard\Documents\itco\versionessalvador\3\salvadorpos\salvadorpos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\richard\Documents\itco\versionessalvador\3\salvadorpos\salvadorpos\bin\Debug\Google.Protobuf.dll
+C:\Users\richard\Documents\itco\versionessalvador\3\salvadorpos\salvadorpos\bin\Debug\MySql.Data.dll
+C:\Users\richard\Documents\itco\versionessalvador\3\salvadorpos\salvadorpos\bin\Debug\EntityFramework.xml
+C:\Users\richard\Documents\itco\versionessalvador\3\salvadorpos\salvadorpos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\richard\Documents\itco\versionessalvador\3\salvadorpos\salvadorpos\bin\Debug\Google.Protobuf.xml
+C:\Users\richard\Documents\itco\versionessalvador\3\salvadorpos\salvadorpos\bin\Debug\MySql.Data.xml
+C:\Users\richard\Documents\itco\versionessalvador\3\salvadorpos\salvadorpos\obj\Debug\salvadorpos.csprojAssemblyReference.cache
+C:\Users\richard\Documents\itco\versionessalvador\3\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Administracion.menuadministracion.resources
+C:\Users\richard\Documents\itco\versionessalvador\3\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Clientes.resources
+C:\Users\richard\Documents\itco\versionessalvador\3\salvadorpos\salvadorpos\obj\Debug\salvadorpos.cotizaciones.cotizacion.resources
+C:\Users\richard\Documents\itco\versionessalvador\3\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Facturacion.facturacion.resources
+C:\Users\richard\Documents\itco\versionessalvador\3\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Form1.resources
+C:\Users\richard\Documents\itco\versionessalvador\3\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Inicio.iniciar.resources
+C:\Users\richard\Documents\itco\versionessalvador\3\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Listas.Cotizaciones_por_cliente.resources
+C:\Users\richard\Documents\itco\versionessalvador\3\salvadorpos\salvadorpos\obj\Debug\salvadorpos.mensajeespera.resources
+C:\Users\richard\Documents\itco\versionessalvador\3\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Pedidos.pedidos.resources
+C:\Users\richard\Documents\itco\versionessalvador\3\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Properties.Resources.resources
+C:\Users\richard\Documents\itco\versionessalvador\3\salvadorpos\salvadorpos\obj\Debug\salvadorpos.csproj.GenerateResource.cache
+C:\Users\richard\Documents\itco\versionessalvador\3\salvadorpos\salvadorpos\obj\Debug\salvadorpos.csproj.CoreCompileInputs.cache
+C:\Users\richard\Documents\itco\versionessalvador\3\salvadorpos\salvadorpos\obj\Debug\salvadorpos.csproj.CopyComplete
+C:\Users\richard\Documents\itco\versionessalvador\3\salvadorpos\salvadorpos\obj\Debug\salvadorpos.exe
+C:\Users\richard\Documents\itco\versionessalvador\3\salvadorpos\salvadorpos\obj\Debug\salvadorpos.pdb
+C:\Users\richard\Documents\itco\versionessalvador\3\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Bodegas.bod.resources
+C:\Users\richard\Documents\itco\versionessalvador\3\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Bodegas.existencias.resources
+C:\Users\richard\Documents\itco\versionessalvador\3\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Productos.busqueda_prod.resources
+C:\Users\richard\Documents\itco\versionessalvador\3\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Productos.creaproducto.resources
+C:\Users\Kenneth\Documents\salvadorpos\salvadorpos\bin\Debug\salvadorpos.exe.config
+C:\Users\Kenneth\Documents\salvadorpos\salvadorpos\bin\Debug\salvadorpos.exe
+C:\Users\Kenneth\Documents\salvadorpos\salvadorpos\bin\Debug\salvadorpos.pdb
+C:\Users\Kenneth\Documents\salvadorpos\salvadorpos\bin\Debug\EntityFramework.dll
+C:\Users\Kenneth\Documents\salvadorpos\salvadorpos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kenneth\Documents\salvadorpos\salvadorpos\bin\Debug\Google.Protobuf.dll
+C:\Users\Kenneth\Documents\salvadorpos\salvadorpos\bin\Debug\MySql.Data.dll
+C:\Users\Kenneth\Documents\salvadorpos\salvadorpos\bin\Debug\EntityFramework.xml
+C:\Users\Kenneth\Documents\salvadorpos\salvadorpos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kenneth\Documents\salvadorpos\salvadorpos\bin\Debug\Google.Protobuf.xml
+C:\Users\Kenneth\Documents\salvadorpos\salvadorpos\bin\Debug\MySql.Data.xml
+C:\Users\Kenneth\Documents\salvadorpos\salvadorpos\obj\Debug\salvadorpos.csprojAssemblyReference.cache
+C:\Users\Kenneth\Documents\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Administracion.menuadministracion.resources
+C:\Users\Kenneth\Documents\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Bodegas.bod.resources
+C:\Users\Kenneth\Documents\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Bodegas.existencias.resources
+C:\Users\Kenneth\Documents\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Clientes.resources
+C:\Users\Kenneth\Documents\salvadorpos\salvadorpos\obj\Debug\salvadorpos.cotizaciones.cotizacion.resources
+C:\Users\Kenneth\Documents\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Facturacion.facturacion.resources
+C:\Users\Kenneth\Documents\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Form1.resources
+C:\Users\Kenneth\Documents\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Inicio.iniciar.resources
+C:\Users\Kenneth\Documents\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Bodegas.Inventory.resources
+C:\Users\Kenneth\Documents\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Inventory.Item.resources
+C:\Users\Kenneth\Documents\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Listas.Cotizaciones_por_cliente.resources
+C:\Users\Kenneth\Documents\salvadorpos\salvadorpos\obj\Debug\salvadorpos.mensajeespera.resources
+C:\Users\Kenneth\Documents\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Pedidos.pedidos.resources
+C:\Users\Kenneth\Documents\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Productos.busqueda_prod.resources
+C:\Users\Kenneth\Documents\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Productos.creaproducto.resources
+C:\Users\Kenneth\Documents\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Properties.Resources.resources
+C:\Users\Kenneth\Documents\salvadorpos\salvadorpos\obj\Debug\salvadorpos.csproj.GenerateResource.cache
+C:\Users\Kenneth\Documents\salvadorpos\salvadorpos\obj\Debug\salvadorpos.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth\Documents\salvadorpos\salvadorpos\obj\Debug\salvadorpos.csproj.CopyComplete
+C:\Users\Kenneth\Documents\salvadorpos\salvadorpos\obj\Debug\salvadorpos.exe
+C:\Users\Kenneth\Documents\salvadorpos\salvadorpos\obj\Debug\salvadorpos.pdb
+C:\Users\Kenneth\Documents\salvadorpos\salvadorpos\obj\Debug\salvadorpos.Bodegas.Bodegas.resources
+C:\Users\rix\Documents\itco\salvador\salvadorbodegas\salvadorpos\bin\Debug\salvadorpos.exe.config
+C:\Users\rix\Documents\itco\salvador\salvadorbodegas\salvadorpos\bin\Debug\salvadorpos.exe
+C:\Users\rix\Documents\itco\salvador\salvadorbodegas\salvadorpos\bin\Debug\salvadorpos.pdb
+C:\Users\rix\Documents\itco\salvador\salvadorbodegas\salvadorpos\bin\Debug\EntityFramework.dll
+C:\Users\rix\Documents\itco\salvador\salvadorbodegas\salvadorpos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rix\Documents\itco\salvador\salvadorbodegas\salvadorpos\bin\Debug\Google.Protobuf.dll
+C:\Users\rix\Documents\itco\salvador\salvadorbodegas\salvadorpos\bin\Debug\MySql.Data.dll
+C:\Users\rix\Documents\itco\salvador\salvadorbodegas\salvadorpos\bin\Debug\EntityFramework.xml
+C:\Users\rix\Documents\itco\salvador\salvadorbodegas\salvadorpos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rix\Documents\itco\salvador\salvadorbodegas\salvadorpos\bin\Debug\Google.Protobuf.xml
+C:\Users\rix\Documents\itco\salvador\salvadorbodegas\salvadorpos\bin\Debug\MySql.Data.xml
+C:\Users\rix\Documents\itco\salvador\salvadorbodegas\salvadorpos\obj\Debug\salvadorpos.csprojAssemblyReference.cache
+C:\Users\rix\Documents\itco\salvador\salvadorbodegas\salvadorpos\obj\Debug\salvadorpos.Administracion.menuadministracion.resources
+C:\Users\rix\Documents\itco\salvador\salvadorbodegas\salvadorpos\obj\Debug\salvadorpos.Bodegas.bod.resources
+C:\Users\rix\Documents\itco\salvador\salvadorbodegas\salvadorpos\obj\Debug\salvadorpos.Bodegas.Bodegas.resources
+C:\Users\rix\Documents\itco\salvador\salvadorbodegas\salvadorpos\obj\Debug\salvadorpos.Bodegas.existencias.resources
+C:\Users\rix\Documents\itco\salvador\salvadorbodegas\salvadorpos\obj\Debug\salvadorpos.Clientes.resources
+C:\Users\rix\Documents\itco\salvador\salvadorbodegas\salvadorpos\obj\Debug\salvadorpos.cotizaciones.cotizacion.resources
+C:\Users\rix\Documents\itco\salvador\salvadorbodegas\salvadorpos\obj\Debug\salvadorpos.Facturacion.facturacion.resources
+C:\Users\rix\Documents\itco\salvador\salvadorbodegas\salvadorpos\obj\Debug\salvadorpos.Form1.resources
+C:\Users\rix\Documents\itco\salvador\salvadorbodegas\salvadorpos\obj\Debug\salvadorpos.Inicio.iniciar.resources
+C:\Users\rix\Documents\itco\salvador\salvadorbodegas\salvadorpos\obj\Debug\salvadorpos.Bodegas.Inventory.resources
+C:\Users\rix\Documents\itco\salvador\salvadorbodegas\salvadorpos\obj\Debug\salvadorpos.Inventory.Item.resources
+C:\Users\rix\Documents\itco\salvador\salvadorbodegas\salvadorpos\obj\Debug\salvadorpos.Listas.Cotizaciones_por_cliente.resources
+C:\Users\rix\Documents\itco\salvador\salvadorbodegas\salvadorpos\obj\Debug\salvadorpos.mensajeespera.resources
+C:\Users\rix\Documents\itco\salvador\salvadorbodegas\salvadorpos\obj\Debug\salvadorpos.Pedidos.pedidos.resources
+C:\Users\rix\Documents\itco\salvador\salvadorbodegas\salvadorpos\obj\Debug\salvadorpos.Productos.busqueda_prod.resources
+C:\Users\rix\Documents\itco\salvador\salvadorbodegas\salvadorpos\obj\Debug\salvadorpos.Productos.creaproducto.resources
+C:\Users\rix\Documents\itco\salvador\salvadorbodegas\salvadorpos\obj\Debug\salvadorpos.Properties.Resources.resources
+C:\Users\rix\Documents\itco\salvador\salvadorbodegas\salvadorpos\obj\Debug\salvadorpos.csproj.GenerateResource.cache
+C:\Users\rix\Documents\itco\salvador\salvadorbodegas\salvadorpos\obj\Debug\salvadorpos.csproj.CoreCompileInputs.cache
+C:\Users\rix\Documents\itco\salvador\salvadorbodegas\salvadorpos\obj\Debug\salvadorpos.csproj.CopyComplete
+C:\Users\rix\Documents\itco\salvador\salvadorbodegas\salvadorpos\obj\Debug\salvadorpos.exe
+C:\Users\rix\Documents\itco\salvador\salvadorbodegas\salvadorpos\obj\Debug\salvadorpos.pdb
+C:\Users\rix\Documents\itco\salvador\salvadorbodegas\salvadorpos\obj\Debug\salvadorpos.Bodegas.mostrarbodegas.resources
+C:\Users\rix\Documents\itco\salvador\salvadorbodegas\salvadorpos\obj\Debug\salvadorpos.clientes.Busqueda.resources
+C:\Users\rix\Documents\itco\salvador\salvadorbodegas\salvadorpos\bin\Debug\RestSharp.dll
+C:\Users\rix\Documents\itco\salvador\salvadorbodegas\salvadorpos\bin\Debug\RestSharp.xml
+D:\ITCO\POST Salvador Gomez\salvadorbodegas\salvadorpos\bin\Debug\salvadorpos.exe.config
+D:\ITCO\POST Salvador Gomez\salvadorbodegas\salvadorpos\obj\Debug\salvadorpos.exe
+D:\ITCO\POST Salvador Gomez\salvadorbodegas\salvadorpos\obj\Debug\salvadorpos.pdb
+D:\ITCO\POST Salvador Gomez\salvadorbodegas\salvadorpos\obj\Debug\salvadorpos.csprojResolveAssemblyReference.cache
+D:\ITCO\POST Salvador Gomez\salvadorbodegas\salvadorpos\obj\Debug\salvadorpos.Administracion.menuadministracion.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas\salvadorpos\obj\Debug\salvadorpos.Bodegas.bod.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas\salvadorpos\obj\Debug\salvadorpos.Bodegas.Bodegas.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas\salvadorpos\obj\Debug\salvadorpos.Bodegas.existencias.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas\salvadorpos\obj\Debug\salvadorpos.Bodegas.mostrarbodegas.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas\salvadorpos\obj\Debug\salvadorpos.clientes.Busqueda.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas\salvadorpos\obj\Debug\salvadorpos.Clientes.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas\salvadorpos\obj\Debug\salvadorpos.cotizaciones.cotizacion.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas\salvadorpos\obj\Debug\salvadorpos.Facturacion.facturacion.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas\salvadorpos\obj\Debug\salvadorpos.Form1.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas\salvadorpos\obj\Debug\salvadorpos.Inicio.iniciar.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas\salvadorpos\obj\Debug\salvadorpos.Bodegas.Inventory.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas\salvadorpos\obj\Debug\salvadorpos.Inventory.Item.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas\salvadorpos\obj\Debug\salvadorpos.Listas.Cotizaciones_por_cliente.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas\salvadorpos\obj\Debug\salvadorpos.mensajeespera.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas\salvadorpos\obj\Debug\salvadorpos.Pedidos.pedidos.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas\salvadorpos\obj\Debug\salvadorpos.Productos.busqueda_prod.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas\salvadorpos\obj\Debug\salvadorpos.Productos.creaproducto.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas\salvadorpos\obj\Debug\salvadorpos.Properties.Resources.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas\salvadorpos\obj\Debug\salvadorpos.csproj.GenerateResource.Cache
+D:\ITCO\POST Salvador Gomez\salvadorbodegas\salvadorpos\bin\Debug\salvadorpos.exe
+D:\ITCO\POST Salvador Gomez\salvadorbodegas\salvadorpos\bin\Debug\salvadorpos.pdb
+D:\ITCO\POST Salvador Gomez\salvadorbodegas\salvadorpos\bin\Debug\EntityFramework.dll
+D:\ITCO\POST Salvador Gomez\salvadorbodegas\salvadorpos\bin\Debug\EntityFramework.SqlServer.dll
+D:\ITCO\POST Salvador Gomez\salvadorbodegas\salvadorpos\bin\Debug\Google.Protobuf.dll
+D:\ITCO\POST Salvador Gomez\salvadorbodegas\salvadorpos\bin\Debug\RestSharp.dll
+D:\ITCO\POST Salvador Gomez\salvadorbodegas\salvadorpos\bin\Debug\EntityFramework.xml
+D:\ITCO\POST Salvador Gomez\salvadorbodegas\salvadorpos\bin\Debug\EntityFramework.SqlServer.xml
+D:\ITCO\POST Salvador Gomez\salvadorbodegas\salvadorpos\bin\Debug\Google.Protobuf.xml
+D:\ITCO\POST Salvador Gomez\salvadorbodegas\salvadorpos\bin\Debug\RestSharp.xml
+D:\ITCO\POST Salvador Gomez\salvadorbodegas\salvadorpos\bin\Debug\MySql.Data.dll
+D:\ITCO\POST Salvador Gomez\salvadorbodegas\salvadorpos\bin\Debug\PagedList.dll
+D:\ITCO\POST Salvador Gomez\salvadorbodegas\salvadorpos\bin\Debug\MySql.Data.xml
+D:\ITCO\POST Salvador Gomez\salvadorbodegas\salvadorpos\bin\Debug\PagedList.xml
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Now\salvadorpos\bin\Debug\salvadorpos.exe.config
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Now\salvadorpos\obj\Debug\salvadorpos.exe
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Now\salvadorpos\obj\Debug\salvadorpos.pdb
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Now\salvadorpos\bin\Debug\salvadorpos.exe
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Now\salvadorpos\bin\Debug\salvadorpos.pdb
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Now\salvadorpos\bin\Debug\EntityFramework.dll
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Now\salvadorpos\bin\Debug\EntityFramework.SqlServer.dll
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Now\salvadorpos\bin\Debug\Google.Protobuf.dll
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Now\salvadorpos\bin\Debug\MySql.Data.dll
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Now\salvadorpos\bin\Debug\PagedList.dll
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Now\salvadorpos\bin\Debug\RestSharp.dll
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Now\salvadorpos\bin\Debug\EntityFramework.xml
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Now\salvadorpos\bin\Debug\EntityFramework.SqlServer.xml
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Now\salvadorpos\bin\Debug\Google.Protobuf.xml
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Now\salvadorpos\bin\Debug\MySql.Data.xml
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Now\salvadorpos\bin\Debug\PagedList.xml
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Now\salvadorpos\bin\Debug\RestSharp.xml
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Now\salvadorpos\obj\Debug\salvadorpos.csprojResolveAssemblyReference.cache
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Now\salvadorpos\obj\Debug\salvadorpos.Administracion.menuadministracion.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Now\salvadorpos\obj\Debug\salvadorpos.Bodegas.bod.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Now\salvadorpos\obj\Debug\salvadorpos.Bodegas.Bodegas.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Now\salvadorpos\obj\Debug\salvadorpos.Bodegas.existencias.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Now\salvadorpos\obj\Debug\salvadorpos.Bodegas.mostrarbodegas.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Now\salvadorpos\obj\Debug\salvadorpos.clientes.Busqueda.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Now\salvadorpos\obj\Debug\salvadorpos.Clientes.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Now\salvadorpos\obj\Debug\salvadorpos.cotizaciones.cotizacion.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Now\salvadorpos\obj\Debug\salvadorpos.Facturacion.facturacion.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Now\salvadorpos\obj\Debug\salvadorpos.Form1.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Now\salvadorpos\obj\Debug\salvadorpos.Inicio.iniciar.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Now\salvadorpos\obj\Debug\salvadorpos.Bodegas.Inventory.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Now\salvadorpos\obj\Debug\salvadorpos.Inventory.Item.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Now\salvadorpos\obj\Debug\salvadorpos.Listas.Cotizaciones_por_cliente.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Now\salvadorpos\obj\Debug\salvadorpos.mensajeespera.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Now\salvadorpos\obj\Debug\salvadorpos.Pedidos.pedidos.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Now\salvadorpos\obj\Debug\salvadorpos.Productos.busqueda_prod.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Now\salvadorpos\obj\Debug\salvadorpos.Productos.creaproducto.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Now\salvadorpos\obj\Debug\salvadorpos.Properties.Resources.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Now\salvadorpos\obj\Debug\salvadorpos.csproj.GenerateResource.Cache
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\Salvador\salvadorpos\bin\Debug\salvadorpos.exe.config
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\Salvador\salvadorpos\obj\Debug\salvadorpos.exe
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\Salvador\salvadorpos\obj\Debug\salvadorpos.pdb
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\Salvador\salvadorpos\bin\Debug\salvadorpos.exe
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\Salvador\salvadorpos\bin\Debug\salvadorpos.pdb
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\Salvador\salvadorpos\bin\Debug\EntityFramework.dll
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\Salvador\salvadorpos\bin\Debug\EntityFramework.SqlServer.dll
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\Salvador\salvadorpos\bin\Debug\Google.Protobuf.dll
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\Salvador\salvadorpos\bin\Debug\MySql.Data.dll
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\Salvador\salvadorpos\bin\Debug\PagedList.dll
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\Salvador\salvadorpos\bin\Debug\RestSharp.dll
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\Salvador\salvadorpos\bin\Debug\EntityFramework.xml
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\Salvador\salvadorpos\bin\Debug\EntityFramework.SqlServer.xml
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\Salvador\salvadorpos\bin\Debug\Google.Protobuf.xml
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\Salvador\salvadorpos\bin\Debug\MySql.Data.xml
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\Salvador\salvadorpos\bin\Debug\PagedList.xml
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\Salvador\salvadorpos\bin\Debug\RestSharp.xml
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\Salvador\salvadorpos\obj\Debug\salvadorpos.csprojResolveAssemblyReference.cache
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\Salvador\salvadorpos\obj\Debug\salvadorpos.Administracion.menuadministracion.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\Salvador\salvadorpos\obj\Debug\salvadorpos.Bodegas.bod.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\Salvador\salvadorpos\obj\Debug\salvadorpos.Bodegas.Bodegas.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\Salvador\salvadorpos\obj\Debug\salvadorpos.Bodegas.existencias.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\Salvador\salvadorpos\obj\Debug\salvadorpos.Bodegas.mostrarbodegas.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\Salvador\salvadorpos\obj\Debug\salvadorpos.clientes.Busqueda.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\Salvador\salvadorpos\obj\Debug\salvadorpos.Clientes.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\Salvador\salvadorpos\obj\Debug\salvadorpos.cotizaciones.cotizacion.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\Salvador\salvadorpos\obj\Debug\salvadorpos.Facturacion.facturacion.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\Salvador\salvadorpos\obj\Debug\salvadorpos.Form1.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\Salvador\salvadorpos\obj\Debug\salvadorpos.Inicio.iniciar.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\Salvador\salvadorpos\obj\Debug\salvadorpos.Bodegas.Inventory.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\Salvador\salvadorpos\obj\Debug\salvadorpos.Inventory.Item.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\Salvador\salvadorpos\obj\Debug\salvadorpos.Listas.Cotizaciones_por_cliente.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\Salvador\salvadorpos\obj\Debug\salvadorpos.mensajeespera.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\Salvador\salvadorpos\obj\Debug\salvadorpos.Pedidos.pedidos.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\Salvador\salvadorpos\obj\Debug\salvadorpos.Productos.busqueda_prod.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\Salvador\salvadorpos\obj\Debug\salvadorpos.Productos.creaproducto.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\Salvador\salvadorpos\obj\Debug\salvadorpos.Properties.Resources.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\Salvador\salvadorpos\obj\Debug\salvadorpos.csproj.GenerateResource.Cache
+C:\Users\ITCO\Documents\itco\Salvadornew\salvadorpos\obj\Debug\salvadorpos.csprojAssemblyReference.cache
+C:\Users\ITCO\Documents\itco\Salvadornew\salvadorpos\obj\Debug\salvadorpos.Administracion.menuadministracion.resources
+C:\Users\ITCO\Documents\itco\Salvadornew\salvadorpos\obj\Debug\salvadorpos.Bodegas.bod.resources
+C:\Users\ITCO\Documents\itco\Salvadornew\salvadorpos\obj\Debug\salvadorpos.Bodegas.Bodegas.resources
+C:\Users\ITCO\Documents\itco\Salvadornew\salvadorpos\obj\Debug\salvadorpos.Bodegas.existencias.resources
+C:\Users\ITCO\Documents\itco\Salvadornew\salvadorpos\obj\Debug\salvadorpos.Bodegas.mostrarbodegas.resources
+C:\Users\ITCO\Documents\itco\Salvadornew\salvadorpos\obj\Debug\salvadorpos.clientes.Busqueda.resources
+C:\Users\ITCO\Documents\itco\Salvadornew\salvadorpos\obj\Debug\salvadorpos.Clientes.resources
+C:\Users\ITCO\Documents\itco\Salvadornew\salvadorpos\obj\Debug\salvadorpos.cotizaciones.cotizacion.resources
+C:\Users\ITCO\Documents\itco\Salvadornew\salvadorpos\obj\Debug\salvadorpos.Facturacion.facturacion.resources
+C:\Users\ITCO\Documents\itco\Salvadornew\salvadorpos\obj\Debug\salvadorpos.Form1.resources
+C:\Users\ITCO\Documents\itco\Salvadornew\salvadorpos\obj\Debug\salvadorpos.Inicio.iniciar.resources
+C:\Users\ITCO\Documents\itco\Salvadornew\salvadorpos\obj\Debug\salvadorpos.Bodegas.Inventory.resources
+C:\Users\ITCO\Documents\itco\Salvadornew\salvadorpos\obj\Debug\salvadorpos.Inventory.Item.resources
+C:\Users\ITCO\Documents\itco\Salvadornew\salvadorpos\obj\Debug\salvadorpos.Listas.Cotizaciones_por_cliente.resources
+C:\Users\ITCO\Documents\itco\Salvadornew\salvadorpos\obj\Debug\salvadorpos.mensajeespera.resources
+C:\Users\ITCO\Documents\itco\Salvadornew\salvadorpos\obj\Debug\salvadorpos.Pedidos.pedidos.resources
+C:\Users\ITCO\Documents\itco\Salvadornew\salvadorpos\obj\Debug\salvadorpos.Productos.busqueda_prod.resources
+C:\Users\ITCO\Documents\itco\Salvadornew\salvadorpos\obj\Debug\salvadorpos.Properties.Resources.resources
+C:\Users\ITCO\Documents\itco\Salvadornew\salvadorpos\obj\Debug\salvadorpos.csproj.GenerateResource.cache
+C:\Users\ITCO\Documents\itco\Salvadornew\salvadorpos\obj\Debug\salvadorpos.csproj.CoreCompileInputs.cache
+C:\Users\ITCO\Documents\itco\Salvadornew\salvadorpos\obj\Debug\salvadorpos.exe
+C:\Users\ITCO\Documents\itco\Salvadornew\salvadorpos\obj\Debug\salvadorpos.pdb
+C:\Users\ITCO\Documents\itco\Salvadornew\salvadorpos\bin\Debug\salvadorpos.exe.config
+C:\Users\ITCO\Documents\itco\Salvadornew\salvadorpos\bin\Debug\salvadorpos.exe
+C:\Users\ITCO\Documents\itco\Salvadornew\salvadorpos\bin\Debug\salvadorpos.pdb
+C:\Users\ITCO\Documents\itco\Salvadornew\salvadorpos\bin\Debug\EntityFramework.dll
+C:\Users\ITCO\Documents\itco\Salvadornew\salvadorpos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ITCO\Documents\itco\Salvadornew\salvadorpos\bin\Debug\Google.Protobuf.dll
+C:\Users\ITCO\Documents\itco\Salvadornew\salvadorpos\bin\Debug\MySql.Data.dll
+C:\Users\ITCO\Documents\itco\Salvadornew\salvadorpos\bin\Debug\PagedList.dll
+C:\Users\ITCO\Documents\itco\Salvadornew\salvadorpos\bin\Debug\RestSharp.dll
+C:\Users\ITCO\Documents\itco\Salvadornew\salvadorpos\bin\Debug\EntityFramework.xml
+C:\Users\ITCO\Documents\itco\Salvadornew\salvadorpos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ITCO\Documents\itco\Salvadornew\salvadorpos\bin\Debug\Google.Protobuf.xml
+C:\Users\ITCO\Documents\itco\Salvadornew\salvadorpos\bin\Debug\MySql.Data.xml
+C:\Users\ITCO\Documents\itco\Salvadornew\salvadorpos\bin\Debug\PagedList.xml
+C:\Users\ITCO\Documents\itco\Salvadornew\salvadorpos\bin\Debug\RestSharp.xml
+C:\Users\ITCO\Documents\itco\Salvadornew\salvadorpos\obj\Debug\salvadorpos.csproj.CopyComplete
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\salvadorpos\bin\Debug\salvadorpos.exe.config
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\salvadorpos\bin\Debug\salvadorpos.exe
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\salvadorpos\bin\Debug\salvadorpos.pdb
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\salvadorpos\bin\Debug\EntityFramework.dll
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\salvadorpos\bin\Debug\EntityFramework.SqlServer.dll
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\salvadorpos\bin\Debug\Google.Protobuf.dll
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\salvadorpos\bin\Debug\MySql.Data.dll
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\salvadorpos\bin\Debug\PagedList.dll
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\salvadorpos\bin\Debug\RestSharp.dll
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\salvadorpos\bin\Debug\EntityFramework.xml
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\salvadorpos\bin\Debug\EntityFramework.SqlServer.xml
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\salvadorpos\bin\Debug\Google.Protobuf.xml
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\salvadorpos\bin\Debug\MySql.Data.xml
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\salvadorpos\bin\Debug\PagedList.xml
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\salvadorpos\bin\Debug\RestSharp.xml
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\salvadorpos\obj\Debug\salvadorpos.Administracion.menuadministracion.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\salvadorpos\obj\Debug\salvadorpos.Bodegas.bod.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\salvadorpos\obj\Debug\salvadorpos.Bodegas.Bodegas.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\salvadorpos\obj\Debug\salvadorpos.Bodegas.existencias.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\salvadorpos\obj\Debug\salvadorpos.Bodegas.mostrarbodegas.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\salvadorpos\obj\Debug\salvadorpos.clientes.Busqueda.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\salvadorpos\obj\Debug\salvadorpos.Clientes.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\salvadorpos\obj\Debug\salvadorpos.cotizaciones.cotizacion.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\salvadorpos\obj\Debug\salvadorpos.Facturacion.facturacion.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\salvadorpos\obj\Debug\salvadorpos.Form1.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\salvadorpos\obj\Debug\salvadorpos.Inicio.iniciar.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\salvadorpos\obj\Debug\salvadorpos.Bodegas.Inventory.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\salvadorpos\obj\Debug\salvadorpos.Inventory.Item.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\salvadorpos\obj\Debug\salvadorpos.Listas.Cotizaciones_por_cliente.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\salvadorpos\obj\Debug\salvadorpos.mensajeespera.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\salvadorpos\obj\Debug\salvadorpos.Pedidos.pedidos.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\salvadorpos\obj\Debug\salvadorpos.Productos.busqueda_prod.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\salvadorpos\obj\Debug\salvadorpos.Properties.Resources.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\salvadorpos\obj\Debug\salvadorpos.csproj.GenerateResource.Cache
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\salvadorpos\obj\Debug\salvadorpos.exe
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\salvadorpos\obj\Debug\salvadorpos.pdb
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git\salvadorpos\obj\Debug\salvadorpos.csprojResolveAssemblyReference.cache
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git - 21Feb\salvadorpos\bin\Debug\salvadorpos.exe.config
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git - 21Feb\salvadorpos\obj\Debug\salvadorpos.exe
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git - 21Feb\salvadorpos\obj\Debug\salvadorpos.pdb
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git - 21Feb\salvadorpos\bin\Debug\salvadorpos.exe
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git - 21Feb\salvadorpos\bin\Debug\salvadorpos.pdb
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git - 21Feb\salvadorpos\bin\Debug\EntityFramework.dll
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git - 21Feb\salvadorpos\bin\Debug\EntityFramework.SqlServer.dll
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git - 21Feb\salvadorpos\bin\Debug\Google.Protobuf.dll
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git - 21Feb\salvadorpos\bin\Debug\MySql.Data.dll
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git - 21Feb\salvadorpos\bin\Debug\PagedList.dll
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git - 21Feb\salvadorpos\bin\Debug\RestSharp.dll
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git - 21Feb\salvadorpos\bin\Debug\EntityFramework.xml
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git - 21Feb\salvadorpos\bin\Debug\EntityFramework.SqlServer.xml
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git - 21Feb\salvadorpos\bin\Debug\Google.Protobuf.xml
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git - 21Feb\salvadorpos\bin\Debug\MySql.Data.xml
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git - 21Feb\salvadorpos\bin\Debug\PagedList.xml
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git - 21Feb\salvadorpos\bin\Debug\RestSharp.xml
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git - 21Feb\salvadorpos\obj\Debug\salvadorpos.csprojResolveAssemblyReference.cache
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git - 21Feb\salvadorpos\obj\Debug\salvadorpos.Administracion.menuadministracion.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git - 21Feb\salvadorpos\obj\Debug\salvadorpos.Bodegas.bod.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git - 21Feb\salvadorpos\obj\Debug\salvadorpos.Bodegas.Bodegas.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git - 21Feb\salvadorpos\obj\Debug\salvadorpos.Bodegas.existencias.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git - 21Feb\salvadorpos\obj\Debug\salvadorpos.Bodegas.mostrarbodegas.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git - 21Feb\salvadorpos\obj\Debug\salvadorpos.clientes.Busqueda.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git - 21Feb\salvadorpos\obj\Debug\salvadorpos.Clientes.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git - 21Feb\salvadorpos\obj\Debug\salvadorpos.cotizaciones.cotizacion.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git - 21Feb\salvadorpos\obj\Debug\salvadorpos.Facturacion.facturacion.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git - 21Feb\salvadorpos\obj\Debug\salvadorpos.Form1.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git - 21Feb\salvadorpos\obj\Debug\salvadorpos.Inicio.iniciar.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git - 21Feb\salvadorpos\obj\Debug\salvadorpos.Bodegas.Inventory.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git - 21Feb\salvadorpos\obj\Debug\salvadorpos.Inventory.Item.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git - 21Feb\salvadorpos\obj\Debug\salvadorpos.Listas.Cotizaciones_por_cliente.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git - 21Feb\salvadorpos\obj\Debug\salvadorpos.mensajeespera.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git - 21Feb\salvadorpos\obj\Debug\salvadorpos.Pedidos.pedidos.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git - 21Feb\salvadorpos\obj\Debug\salvadorpos.Productos.busqueda_prod.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git - 21Feb\salvadorpos\obj\Debug\salvadorpos.Properties.Resources.resources
+D:\ITCO\POST Salvador Gomez\salvadorbodegas Git - 21Feb\salvadorpos\obj\Debug\salvadorpos.csproj.GenerateResource.Cache
+D:\ITCO\POST Salvador Gomez\SalvadorGomezJoe\salvadorpos\bin\Debug\salvadorpos.exe.config
+D:\ITCO\POST Salvador Gomez\SalvadorGomezJoe\salvadorpos\bin\Debug\salvadorpos.exe
+D:\ITCO\POST Salvador Gomez\SalvadorGomezJoe\salvadorpos\bin\Debug\salvadorpos.pdb
+D:\ITCO\POST Salvador Gomez\SalvadorGomezJoe\salvadorpos\bin\Debug\EntityFramework.dll
+D:\ITCO\POST Salvador Gomez\SalvadorGomezJoe\salvadorpos\bin\Debug\EntityFramework.SqlServer.dll
+D:\ITCO\POST Salvador Gomez\SalvadorGomezJoe\salvadorpos\bin\Debug\Google.Protobuf.dll
+D:\ITCO\POST Salvador Gomez\SalvadorGomezJoe\salvadorpos\bin\Debug\PagedList.dll
+D:\ITCO\POST Salvador Gomez\SalvadorGomezJoe\salvadorpos\bin\Debug\RestSharp.dll
+D:\ITCO\POST Salvador Gomez\SalvadorGomezJoe\salvadorpos\bin\Debug\EntityFramework.xml
+D:\ITCO\POST Salvador Gomez\SalvadorGomezJoe\salvadorpos\bin\Debug\EntityFramework.SqlServer.xml
+D:\ITCO\POST Salvador Gomez\SalvadorGomezJoe\salvadorpos\bin\Debug\Google.Protobuf.xml
+D:\ITCO\POST Salvador Gomez\SalvadorGomezJoe\salvadorpos\bin\Debug\PagedList.xml
+D:\ITCO\POST Salvador Gomez\SalvadorGomezJoe\salvadorpos\bin\Debug\RestSharp.xml
+D:\ITCO\POST Salvador Gomez\SalvadorGomezJoe\salvadorpos\obj\Debug\salvadorpos.Administracion.menuadministracion.resources
+D:\ITCO\POST Salvador Gomez\SalvadorGomezJoe\salvadorpos\obj\Debug\salvadorpos.Bodegas.bod.resources
+D:\ITCO\POST Salvador Gomez\SalvadorGomezJoe\salvadorpos\obj\Debug\salvadorpos.Bodegas.Bodegas.resources
+D:\ITCO\POST Salvador Gomez\SalvadorGomezJoe\salvadorpos\obj\Debug\salvadorpos.Bodegas.existencias.resources
+D:\ITCO\POST Salvador Gomez\SalvadorGomezJoe\salvadorpos\obj\Debug\salvadorpos.Bodegas.mostrarbodegas.resources
+D:\ITCO\POST Salvador Gomez\SalvadorGomezJoe\salvadorpos\obj\Debug\salvadorpos.clientes.Busqueda.resources
+D:\ITCO\POST Salvador Gomez\SalvadorGomezJoe\salvadorpos\obj\Debug\salvadorpos.Clientes.resources
+D:\ITCO\POST Salvador Gomez\SalvadorGomezJoe\salvadorpos\obj\Debug\salvadorpos.cotizaciones.cotizacion.resources
+D:\ITCO\POST Salvador Gomez\SalvadorGomezJoe\salvadorpos\obj\Debug\salvadorpos.Facturacion.facturacion.resources
+D:\ITCO\POST Salvador Gomez\SalvadorGomezJoe\salvadorpos\obj\Debug\salvadorpos.Form1.resources
+D:\ITCO\POST Salvador Gomez\SalvadorGomezJoe\salvadorpos\obj\Debug\salvadorpos.Inicio.iniciar.resources
+D:\ITCO\POST Salvador Gomez\SalvadorGomezJoe\salvadorpos\obj\Debug\salvadorpos.Bodegas.Inventory.resources
+D:\ITCO\POST Salvador Gomez\SalvadorGomezJoe\salvadorpos\obj\Debug\salvadorpos.Inventory.Item.resources
+D:\ITCO\POST Salvador Gomez\SalvadorGomezJoe\salvadorpos\obj\Debug\salvadorpos.Listas.Cotizaciones_por_cliente.resources
+D:\ITCO\POST Salvador Gomez\SalvadorGomezJoe\salvadorpos\obj\Debug\salvadorpos.mensajeespera.resources
+D:\ITCO\POST Salvador Gomez\SalvadorGomezJoe\salvadorpos\obj\Debug\salvadorpos.Pedidos.pedidos.resources
+D:\ITCO\POST Salvador Gomez\SalvadorGomezJoe\salvadorpos\obj\Debug\salvadorpos.Productos.busqueda_prod.resources
+D:\ITCO\POST Salvador Gomez\SalvadorGomezJoe\salvadorpos\obj\Debug\salvadorpos.Properties.Resources.resources
+D:\ITCO\POST Salvador Gomez\SalvadorGomezJoe\salvadorpos\obj\Debug\salvadorpos.csproj.GenerateResource.Cache
+D:\ITCO\POST Salvador Gomez\SalvadorGomezJoe\salvadorpos\obj\Debug\salvadorpos.exe
+D:\ITCO\POST Salvador Gomez\SalvadorGomezJoe\salvadorpos\obj\Debug\salvadorpos.pdb
+D:\ITCO\POST Salvador Gomez\SalvadorGomezJoe\salvadorpos\obj\Debug\salvadorpos.csprojResolveAssemblyReference.cache
+D:\ITCO\POST Salvador Gomez\SalvadorGomezJoe\salvadorpos\bin\Debug\Newtonsoft.Json.dll
+D:\ITCO\POST Salvador Gomez\SalvadorGomezJoe\salvadorpos\bin\Debug\Newtonsoft.Json.xml
+D:\ITCO\POST Salvador Gomez\SalvadorGomezJoe - 05March 1015\salvadorpos\bin\Debug\salvadorpos.exe.config
+D:\ITCO\POST Salvador Gomez\SalvadorGomezJoe - 05March 1015\salvadorpos\obj\Debug\salvadorpos.exe
+D:\ITCO\POST Salvador Gomez\SalvadorGomezJoe - 05March 1015\salvadorpos\obj\Debug\salvadorpos.pdb

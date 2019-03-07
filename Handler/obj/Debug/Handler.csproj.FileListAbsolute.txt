@@ -1,0 +1,5 @@
+D:\ITCO\POST Salvador Gomez\salvadorbodegas\Handler\bin\Debug\Handler.dll.config
+D:\ITCO\POST Salvador Gomez\salvadorbodegas\Handler\bin\Debug\Handler.dll
+D:\ITCO\POST Salvador Gomez\salvadorbodegas\Handler\bin\Debug\Handler.pdb
+D:\ITCO\POST Salvador Gomez\salvadorbodegas\Handler\obj\Debug\Handler.dll
+D:\ITCO\POST Salvador Gomez\salvadorbodegas\Handler\obj\Debug\Handler.pdb

@@ -8,7 +8,6 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Transactions;
 using System.Windows.Forms;
-using Interop.QBFC13;
 using salvadorpos.Modelo;
 using salvadorpos.cotizaciones;
 using System.Runtime.InteropServices;
@@ -27,7 +26,7 @@ namespace salvadorpos
         public Form1()
         {
             InitializeComponent();
-           
+
         }
 
         private void pictureBox1_Click(object sender, EventArgs e)
@@ -55,30 +54,30 @@ namespace salvadorpos
                 {
                     panel3.Controls.RemoveAt(0);
                     Clientes c = sender as Clientes;
-                    
-                        c.TopLevel = false;
-                        c.Dock = DockStyle.Fill;
-                        panel3.Controls.Add(c);
-                        panel3.Tag = c;
-                        c.Show();
 
-                    
+                    c.TopLevel = false;
+                    c.Dock = DockStyle.Fill;
+                    panel3.Controls.Add(c);
+                    panel3.Tag = c;
+                    c.Show();
 
-                       
-                  
+
+
+
+
 
                 }
                 else
                 {
                     Clientes c = sender as Clientes;
-                    
-                        c.TopLevel = false;
-                        c.Dock = DockStyle.Fill;
-                        panel3.Controls.Add(c);
-                        panel3.Tag = c;
-                        c.Show();
 
-                    
+                    c.TopLevel = false;
+                    c.Dock = DockStyle.Fill;
+                    panel3.Controls.Add(c);
+                    panel3.Tag = c;
+                    c.Show();
+
+
 
                 }
 
@@ -137,13 +136,13 @@ namespace salvadorpos
 
         private void backgroundWorker1_DoWork(object sender, DoWorkEventArgs e)
         {
-            
+
         }
 
-        private  void Form1_Load(object sender, EventArgs e)
+        private void Form1_Load(object sender, EventArgs e)
         {
 
-            
+
             button1.Select();
         }
 
@@ -165,37 +164,37 @@ namespace salvadorpos
                 //using (var quickbooks = new Quickbooks())
                 //{
                 //    //quickbooks.conectar();
-                    //ICustomerQuery CustomerQueryRq = quickbooks.request.AppendCustomerQueryRq();
-                    //CustomerQueryRq.IncludeRetElementList.Add("Name");
-                    //CustomerQueryRq.IncludeRetElementList.Add("CompanyName");
-                    //CustomerQueryRq.IncludeRetElementList.Add("BillAddress");
-                    //CustomerQueryRq.IncludeRetElementList.Add("Email");
-                    //CustomerQueryRq.IncludeRetElementList.Add("DataExtRet");
-                    //CustomerQueryRq.OwnerIDList.Add("0");p
+                //ICustomerQuery CustomerQueryRq = quickbooks.request.AppendCustomerQueryRq();
+                //CustomerQueryRq.IncludeRetElementList.Add("Name");
+                //CustomerQueryRq.IncludeRetElementList.Add("CompanyName");
+                //CustomerQueryRq.IncludeRetElementList.Add("BillAddress");
+                //CustomerQueryRq.IncludeRetElementList.Add("Email");
+                //CustomerQueryRq.IncludeRetElementList.Add("DataExtRet");
+                //CustomerQueryRq.OwnerIDList.Add("0");p
 
 
 
 
-                    //IMsgSetResponse respuesta = quickbooks.sesionmanager.DoRequests(quickbooks.request);
+                //IMsgSetResponse respuesta = quickbooks.sesionmanager.DoRequests(quickbooks.request);
 
-                    //response = respuesta.ResponseList.GetAt(0);
-
-
-
-                    //ICustomerRetList lista = response.Detail as ICustomerRetList;
-
-                    //ICustomerRet ret;
+                //response = respuesta.ResponseList.GetAt(0);
 
 
-                    //using (var context = new salvadorEntities2())
-                    //{
-                    //    var entities = (from p in context.Clientes
-                                        
-                    //                    select p).Single();
+
+                //ICustomerRetList lista = response.Detail as ICustomerRetList;
+
+                //ICustomerRet ret;
 
 
-                    
-                    //}
+                //using (var context = new salvadorEntities2())
+                //{
+                //    var entities = (from p in context.Clientes
+
+                //                    select p).Single();
+
+
+
+                //}
 
 
                 //if (response.StatusMessage == "Status OK")
@@ -261,10 +260,10 @@ namespace salvadorpos
 
 
 
-           
-            
 
-        
+
+
+
             }
             catch (ArgumentNullException age)
             {
@@ -272,26 +271,72 @@ namespace salvadorpos
                 mensajes.err(age);
             }
 
-        
+
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-            facturacionform(new facturacion());
-            //ser
+            menuplantillasshow(new menuplantillas(this));
 
+        }
+
+
+
+
+        public void menuplantillasshow(object sender)
+        {
+
+            try
+            {
+                if (panel3.Controls.Count > 0)
+                {
+                    panel3.Controls.RemoveAt(0);
+                    menuplantillas c = sender as menuplantillas;
+
+                    c.TopLevel = false;
+                    c.Dock = DockStyle.Fill;
+                    panel3.Controls.Add(c);
+                    panel3.Tag = c;
+                    c.Show();
+
+
+
+
+
+
+                }
+                else
+                {
+                    menuplantillas c = sender as menuplantillas;
+
+                    c.TopLevel = false;
+                    c.Dock = DockStyle.Fill;
+                    panel3.Controls.Add(c);
+                    panel3.Tag = c;
+                    c.Show();
+
+
+
+                }
+
+            }
+            catch (Exception eb)
+            {
+                MessageBox.Show(eb.ToString());
+
+            }
         }
 
 
         [DllImport("user32.DLL", EntryPoint = "ReleaseCapture")]
         private extern static void ReleaseCapture();
         [DllImport("user32.DLL", EntryPoint = "SendMessage")]
-        private extern static void SendMessage(System.IntPtr hWnd,int wMsg,int wParam,int lParam);
+        private extern static void SendMessage(System.IntPtr hWnd, int wMsg, int wParam, int lParam);
 
         private void panel1_MouseDown(object sender, MouseEventArgs e)
         {
             ReleaseCapture();
-            SendMessage(this.Handle,0x112,0xf012,0);
+            SendMessage(this.Handle, 0x112, 0xf012, 0);
         }
 
         private void pictureBox3_Click(object sender, EventArgs e)
@@ -471,13 +516,13 @@ namespace salvadorpos
 
         private void button4_Click_1(object sender, EventArgs e)
         {
-     
+
         }
 
         public void creaproductoform(object sender)
         {
 
-            
+
         }
 
         private void panel3_Paint(object sender, PaintEventArgs e)
@@ -487,12 +532,20 @@ namespace salvadorpos
 
         private void btnBodegas_Click(object sender, EventArgs e)
         {
-           
+
         }
 
         private async void Form1_Shown(object sender, EventArgs e)
         {
             //await lpl.listadepricelevels();
+        }
+
+        private void Form1_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.F1)
+            {
+                menuplantillasshow(new menuplantillas(this));
+            }
         }
     }
 }

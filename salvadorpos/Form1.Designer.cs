@@ -315,7 +315,6 @@
 
         #endregion
         private System.Windows.Forms.Panel panel2;
-        private System.Windows.Forms.Panel panel3;
         private System.Windows.Forms.Panel panel4;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Panel panel6;
@@ -332,6 +331,7 @@
         private System.Windows.Forms.Button btnBodegas;
         private System.Windows.Forms.PictureBox pictureBox2;
         private System.Windows.Forms.Button button4;
+        public System.Windows.Forms.Panel panel3;
     }
 }
 
